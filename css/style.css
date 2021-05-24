@@ -1,0 +1,56 @@
+#contact
+{
+    background: #efefef;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #777;
+}
+#contact h1
+{
+font-family: dori;
+}
+
+.contact-form
+{
+    padding: 15px;
+    
+}
+.form-control
+{
+     border-radius: 0 !important;
+    border: none !important;
+    
+}
+::placeholder
+{
+    color: #999 !important;
+}
+.follow
+{
+    background: #fff;
+    padding: 10px;
+    margin: 15px;
+    font-family: dor;
+
+}
+.contact-info .fa
+{
+    margin: 10px;
+    color: #007bff;
+}
+
+
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+    font-size: 18px;
+    font-family: dori;
+
+}
+.fa-heart-o
+{
+    margin: 3px;
+    color: red;
+}
